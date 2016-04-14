@@ -16,6 +16,14 @@ body {
     font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
+
+.guide-item:before{
+
+    content:url(http://www.un.org/en/oaj/unjs/efiling/added/images/bullet-list-icon-blue.jpg);
+
+
+}
+
 .text-vertical-center {
     display: table-cell;
     text-align: center;
